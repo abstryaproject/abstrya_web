@@ -1,2 +1,2 @@
 # abstry_web
-Abstrya Cloud advertising website.
+Abstrya Cloud:- Advertising website.
